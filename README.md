@@ -1,8 +1,7 @@
 ## killprocess
 
 This is a simple python script that takes program names and kills them if exist.
-
-# Windows, Mac, and Linux
+Works on Windows, Mac, and Linux
 
 ## Requirements
 python 2.7
