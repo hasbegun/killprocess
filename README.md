@@ -7,8 +7,8 @@ python 2.7
 pustil https://pythonhosted.org/psutil/
 
 ## Install psutil
-You can download psutil at https://pypi.python.org/pypi/psutil
-(link may change. You can google psutil.)
+You can download 'psutil' at https://pypi.python.org/pypi/psutil
+(link may change. You can google 'psutil'.)
 
 ```
 tar zxvf psutil.x.y.z.tar.gz
@@ -21,7 +21,7 @@ python setup.py install
 
 ```
 
-Or useing pip
+Or use 'pip'
 
 ```
 pip install psutil
