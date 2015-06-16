@@ -2,6 +2,8 @@
 
 This is a simple python script that takes program names and kills them if exist.
 
+# Windows, Mac, and Linux
+
 ## Requirements
 python 2.7
 pustil https://pythonhosted.org/psutil/
@@ -14,7 +16,7 @@ You can download 'psutil' at https://pypi.python.org/pypi/psutil
 tar zxvf psutil.x.y.z.tar.gz
 
 ```
-where x.y.z is version number.
+where x.y.z is a version number.
 
 ```
 python setup.py install
@@ -40,3 +42,4 @@ python killprocess.py prog1 prog2 ... prog_n
 python killprocess.py musicagent.exe movieagent.exe
 
 ```
+This command will kill "musicagent.exe" and "movieagent.exe" if they exist.
